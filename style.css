@@ -6,14 +6,14 @@ font-size:large;
 }
 
 body {
-background-color:rgb(140, 216, 0);
+background-color:rgba(140, 216, 0, 0.521);
 
 }
 h3
 
 {
 
-color:rgb(8, 68, 0);
+color:rgb(0, 0, 0);
 text-decoration: underline;
 }
 
