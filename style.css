@@ -22,5 +22,27 @@ p
 {
     color:rgb(0, 0, 0);
 }
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #0e7a00;
+  }
+  
+  ol a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  ol a:hover {
+    background-color: #555;
+    color: rgb(0, 0, 0);
+  }
+  
 </head>
 </style>
